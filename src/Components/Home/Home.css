@@ -1,0 +1,18 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+    color: #333;
+    text-align: center;
+    margin: 30px auto;
+}
+
+img {
+    width: 550px;
+    height: 500px;
+    margin-bottom: 25px;
+}

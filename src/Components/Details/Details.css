@@ -1,0 +1,20 @@
+.blog-detail {
+    margin: 25px auto;
+    width: 800px;
+    color: #333;
+}
+
+.image-detail {
+    width: 500px;
+    height: 350px;
+}
+
+.blog-detail strong {
+    margin-bottom: 25px;
+    font-size: 20px;
+}
+
+.blog-detail p {
+    margin-top: 25px;
+    font-size: 18px;
+}
